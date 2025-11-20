@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "AidaShahriari"
+title                    : "Ada Shahriari"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Ada" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
+  name             : "Ada Shahriari"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
+  location         : "Tehran"
+  email            : Kafkaonthecliff@gmail.com
   twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
