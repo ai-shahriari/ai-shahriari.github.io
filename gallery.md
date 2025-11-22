@@ -38,5 +38,5 @@ gallery:
 ---
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="I see the world as I see it." %}
 
