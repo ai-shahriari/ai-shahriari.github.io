@@ -112,11 +112,8 @@ author:
   bio              : I'm the best student.
   location         : "Tehran"
   email            : Kafkaonthecliff@gmail.com
-  twitter: sauleh_e
   linkedin: 
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: ai-shahriari
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,24 +131,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://github.com/ai-shahriari"
 
 
 # Reading Files
