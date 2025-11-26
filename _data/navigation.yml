@@ -1,15 +1,9 @@
 # main links
 main:
-  - title: "Poems"
-    url: /Poems/
   - title: "Movies"
     url: /Movies/
   - title: "Books"
     url: /Books/
-  - title: "Opinions"
-    url: /Opinions/
-  - title: "Hobbies"
-    url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
   - title: "Blog"
