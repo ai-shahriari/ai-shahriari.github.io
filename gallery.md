@@ -7,10 +7,6 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/colors.jpg
-    image_path: /assets/images/colors.jpg
-    alt: "placeholder image 1"
-    title: ""
   - url: /assets/images/comatose.jpg
     image_path: /assets/images/comatose.jpg
     alt: "placeholder image 2"
