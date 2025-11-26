@@ -26,7 +26,7 @@ gallery:
   - url: /assets/images/light.jpg
     image_path: /assets/images/light.jpg
     alt: "placeholder image 5"
-    title: "I Believe It's Gabriel."    
+    title: "I Believe It's the Holy Spirit."    
   - url: /assets/images/love.jpg
     image_path: /assets/images/love.jpg
     alt: "placeholder image 6"
