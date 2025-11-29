@@ -35,7 +35,7 @@ gallery:
     image_path: /assets/images/survival.jpg
     alt: "placeholder image 8"
     title: "Survival."    
-  - url: /assets/image/haveaseat.jpg
+  - url: /assets/images/haveaseat.jpg
     image_path: /assets/images/haveaseat.jpg
     alt: "placeholder image 9"
     title: ""    
