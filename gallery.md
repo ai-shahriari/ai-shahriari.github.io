@@ -31,15 +31,15 @@ gallery:
     image_path: /assets/images/mud.jpg
     alt: "placeholder image 7"
     title: ""    
----- url: /assets/image/survival.jpg
+  - url: /assets/image/survival.jpg
     image_path: /assets/images/survival.jpg
     alt: "placeholder image 8"
     title: "Survival."    
----url: /assets/image/haveaseat.jpg
+  - url: /assets/image/haveaseat.jpg
     image_path: /assets/images/haveaseat.jpg
     alt: "placeholder image 9"
     title: ""    
----
+  
 
 
 {% include gallery caption="I see the world as I see it." %}
