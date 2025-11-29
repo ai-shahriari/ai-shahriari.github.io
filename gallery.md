@@ -39,7 +39,7 @@ gallery:
     image_path: /assets/images/haveaseat.jpg
     alt: "placeholder image 9"
     title: ""    
-
+---
 
 
 {% include gallery caption="I see the world as I see it." %}
