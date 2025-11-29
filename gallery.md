@@ -26,12 +26,20 @@ gallery:
   - url: /assets/images/love.jpg
     image_path: /assets/images/love.jpg
     alt: "placeholder image 6"
-    title: "Thank God."    
+    title: ""    
   - url: /assets/images/mud.jpg
     image_path: /assets/images/mud.jpg
     alt: "placeholder image 7"
-    title: "The Mind."    
----
+    title: ""    
+---- url: /assets/image/survival.jpg
+    image_path: /assets/images/survival.jpg
+    alt: "placeholder image 8"
+    title: "Survival."    
+---url: /assets/image/haveaseat.jpg
+    image_path: /assets/images/haveaseat.jpg
+    alt: "placeholder image 9"
+    title: ""    
+
 
 
 {% include gallery caption="I see the world as I see it." %}
