@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/mud.jpg
     alt: "placeholder image 7"
     title: ""    
-  - url: /assets/image/survival.jpg
+  - url: /assets/images/survival.jpg
     image_path: /assets/images/survival.jpg
     alt: "placeholder image 8"
     title: "Survival."    
