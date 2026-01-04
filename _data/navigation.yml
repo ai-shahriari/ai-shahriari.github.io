@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Members"
-    url: /Members/
-  - title: "Contact Us"
-    url: /Contact/
-  - title: "Products"
-    url: /Products/
+  - title: "Movies"
+    url: /Movies/
+  - title: "Books"
+    url: /Books/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Blog"
+    url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
