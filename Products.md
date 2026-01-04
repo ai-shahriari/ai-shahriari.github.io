@@ -7,18 +7,18 @@ tags: [Products]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/comatose.jpg
-    image_path: /assets/images/comatose.jpg
-    alt: "placeholder image 2"
-    title: "Twins."
-  - url: /assets/images/guts.jpg
-    image_path: /assets/images/guts.jpg
-    alt: "placeholder image 3"
-    title: "Guts."  
-  - url: /assets/images/world.jpg
-    image_path: /assets/images/world.jpg
-    alt: "placeholder image 4"
-    title: "It's a Fit."
+  - url: /assets/images/eggs.jpg
+    image_path: /assets/images/eggs.jpg
+    alt: "Fresh Eggs, pack of 32"
+    title: "Fresh Eggs, Pack of 32."
+  - url: /assets/images/fillet.jpg
+    image_path: /assets/images/fillet.jpg
+    alt: "Chicken Breast, Boneless, 500g Pack."
+    title: "Chicken Breast, Boneless, 500g Pack."  
+  - url: /assets/images/feet.jpg
+    image_path: /assets/images/feet.jpg
+    alt: "Chicken Feet, One Piece(1 x 250g)"
+    title: "Chicken Feet, One Piece(1 x 250g)"
   - url: /assets/images/light.jpg
     image_path: /assets/images/light.jpg
     alt: "placeholder image 5"
