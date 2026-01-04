@@ -10,11 +10,11 @@ comments: true
 
 ### Give Us a Call
 * [021-1235813]
-Available 24/7!
+[Available 24/7!]
 
 ### Chat With Us
 * [Telegram](http://t.me/Kafkaonthecliff)
-Get Product Info, and Chat With an Agent!
+[Get Product Info, and Chat With an Agent!]
 
 
 

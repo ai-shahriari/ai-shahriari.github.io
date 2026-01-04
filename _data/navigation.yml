@@ -3,7 +3,7 @@ main:
   - title: "Members"
     url: /Members/
   - title: "Contact Us"
-    url: /contact/
+    url: /Contact/
   - title: "Products"
     url: /Products/
   # - title: "About"
