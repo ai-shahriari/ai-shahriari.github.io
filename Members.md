@@ -28,4 +28,4 @@ comments: false
 
 * [Mohammad Mohammadi](https://www.imdb.com/title/tt0116922/)
 
-![محمد محمدی](../assets/images/mmd.webp "محمد محمدی")
+![محمد محمدی](../assets/images/mmd.jpg "محمد محمدی")

@@ -2,8 +2,8 @@
 main:
   - title: "Members"
     url: /Members/
-  - title: "Books"
-    url: /Books/
+  - title: "Contact Us"
+    url: /contact/
   - title: "Products"
     url: /Products/
   # - title: "About"
