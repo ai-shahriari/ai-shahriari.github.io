@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Movies"
-    url: /Movies/
+  - title: "Members"
+    url: /Members/
   - title: "Books"
     url: /Books/
   - title: "Products"
     url: /Products/
-  - title: "Blog"
-    url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
