@@ -7,8 +7,8 @@ tags: [Products]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/eggs.jpg
-    image_path: /assets/images/eggs.jpg
+  - url: /assets/images/eggs.jpeg
+    image_path: /assets/images/eggs.jpeg
     alt: "Fresh Eggs, pack of 32"
     title: "Fresh Eggs, Pack of 32."
   - url: /assets/images/fillet.jpg
@@ -19,26 +19,26 @@ gallery:
     image_path: /assets/images/feet.jpg
     alt: "Chicken Feet, One Piece(1 x 250g)"
     title: "Chicken Feet, One Piece(1 x 250g)"
-  - url: /assets/images/light.jpg
-    image_path: /assets/images/light.jpg
-    alt: "placeholder image 5"
-    title: "I Believe It's the Holy Spirit."    
-  - url: /assets/images/love.jpg
-    image_path: /assets/images/love.jpg
-    alt: "placeholder image 6"
-    title: ""    
-  - url: /assets/images/mud.jpg
-    image_path: /assets/images/mud.jpg
-    alt: "placeholder image 7"
-    title: ""    
-  - url: /assets/images/survival.jpg
-    image_path: /assets/images/survival.jpg
-    alt: "placeholder image 8"
-    title: "Survival."    
-  - url: /assets/images/haveaseat.jpg
-    image_path: /assets/images/haveaseat.jpg
-    alt: "placeholder image 9"
-    title: ""    
+  - url: /assets/images/roast.jpg
+    image_path: /assets/images/roast.jpg
+    alt: "Chicken Satay Roast, 40 x 40g"
+    title: "Chicken Satay Roast, 40 x 40g"    
+  - url: /assets/images/sausage.jpg
+    image_path: /assets/images/sausage.jpg
+    alt: "Chicken Chipolata Sausages"
+    title: "Chicken Chipolata Sausages"    
+  - url: /assets/images/smoked.jpg
+    image_path: /assets/images/smoked.jpg
+    alt: "Smoked Sliced Chicken Breast"
+    title: "Smoked Sliced Chicken Breast"    
+  - url: /assets/images/roulade.jpg
+    image_path: /assets/images/roulade.jpg
+    alt: "Chicken Thigh Roulade Roasted"
+    title: "Chicken Thigh Roulade Roasted"    
+  - url: /assets/images/duck.jpg
+    image_path: /assets/images/duck.jpg
+    alt: "Smoked Duck Breast"
+    title: "Smoked Duck Breast"    
 ---
 
 
