@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Ada Shahriari"
+title                    : "قوقولی قوقو"
 title_separator          : "-"
-name                     : "Ada" 
-description              : "Welcome to my web site."
+name                     : "" 
+description              : "Poultry, livestock, and ranching."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,22 +102,19 @@ analytics:
 # Site Author
 author:
   name             : "Ada Shahriari"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/images/cock.jpg"
   bio              : I like beets.
   location         : "Tehran"
-  email            : Kafkaonthecliff@gmail.com
+  email            : GhooghooliGhooghoo@gmail.com
   linkedin: 
-  github: ai-shahriari
+  github: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:kafkaonthecliff@gmail.com
+      # url: mailto:GhooghooliGhooghoo@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://ai-shahriari.github.io/PersonalWebsite/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/ai-shahriari"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/Kafkaonthecliff"
