@@ -4,8 +4,8 @@ main:
     url: /Movies/
   - title: "Books"
     url: /Books/
-  - title: "Gallery"
-    url: /gallery/
+  - title: "Products"
+    url: /Products/
   - title: "Blog"
     url: /blog/
   # - title: "About"
